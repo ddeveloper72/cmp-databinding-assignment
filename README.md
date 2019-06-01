@@ -1,4 +1,8 @@
-# CmpDatabindingAssignment
+# [Cmp Databinding](https://github.com/angular/cmp-databinding-assignment)
+
+In the tutorial, I was introduced to *Components & Databinding*. This is an assignment from that tutorial.
+
+Credit for the code in this tutorial is to []Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/), who presents Master Angular (Angular 2+, incl. Angular 8) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
